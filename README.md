@@ -1,6 +1,12 @@
 # Docker Container Build of *Sonos-Web*
 
-This Dockerfile builds a docker container version of [Sonos-Web](https://github.com/Villarrealized/sonos-web) for x86.
+This Dockerfile builds a docker container version of [Sonos-Web](https://github.com/Villarrealized/sonos-web).
+
+Sonos Web is a browser based controller for your [Sonos](https://www.sonos.com/system) sound system.
+
+Install Sonos Web on a single computer and access and manage your system from any browser on your network.
+
+![Search View](https://user-images.githubusercontent.com/5977736/51435364-fec86800-1c32-11e9-8ca0-a162b1dc1e91.png)
 
 If you need an ARM/Raspberry Pi version, visit [pwt/docker-sonos-web-arm](https://github.com/pwt/docker-sonos-web-arm) which inspired this version.
 
