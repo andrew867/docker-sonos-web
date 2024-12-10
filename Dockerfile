@@ -1,6 +1,6 @@
 FROM node:10
 
-RUN npm install -g sonos-web-cli
+RUN npm install -g https://github.com/andrew867/sonos-web-cli.git
 USER node
 RUN sonos-web install
 
